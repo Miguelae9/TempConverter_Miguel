@@ -3,7 +3,7 @@ package com.ejemplo.temp;
 public class Converter {
     // Convierte Celsius a Fahrenheit
     public double celsiusToFahrenheit(double c) {
-        return c * 9/5 + 32;
+        return c * 9/5;
     }
 
     public static void main(String[] args) {
